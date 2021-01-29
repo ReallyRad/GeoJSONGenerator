@@ -16,5 +16,5 @@ with open('data.csv') as csvfile:
 
 gj['features'] = features
 
-with open('out.geosjon', 'w') as outfile:
+with open('out.geojson', 'w') as outfile:
     geojson.dump(gj, outfile)
