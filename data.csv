@@ -1,21 +1,23 @@
-Country,Article_URL,Recommendation
-ROM,https://translate.google.com/translate?sl=auto&tl=en&u=https://www.b1.ro/stiri/social/dr-serban-bubenek-a-confirmat-ivermectina-este-eficace-impotriva-coronavirusului-357967.html,1
-BUL,,2
-DOM,,2
-MCD,https://t.co/XQNiQG01ZR?amp=1,2
-ZIM,https://www.aa.com.tr/en/africa/zimbabwe-oks-use-of-ivermectin-after-officials-deaths/2125442,2
-SLO,https://spectator.sme.sk/c/22583299/use-of-parasite-medication-to-treat-coronavirus-patients-approved-in-slovakia.html,2
-IND,https://indianexpress.com/article/opinion/columns/coronavirus-pandemic-covid-vaccine-tracker-uttar-pradesh-7107756/,2
-PER,,1
-MEX,,2
-UK,https://trialsitenews.com/oxfords-principle-trial-bringing-ivermectin-directly-into-the-developed-world-in-the-battle-against-covid-19/,1
-USA,,1
-SAF,https://www.iol.co.za/news/south-africa/western-cape/sahpra-announces-controlled-compassionate-access-to-ivermectin-d1bc374e-6fea-4d4f-8b87-145fed2aa4e8,2
-GRE,,2
-PAR,,
-PAN,,
-GUA,,
-VEN,,
-ELS,,
-BRA,,
-FRA,https://presse.inserm.fr/en/livermectine-nouveau-traitement-miracle-contre-la-covid-19-vraiment/42011/,0
+Country,Article_URL,Recommendation,Comment
+,,,
+,,,
+Romania,https://translate.google.com/translate?sl=auto&tl=en&u=https://www.b1.ro/stiri/social/dr-serban-bubenek-a-confirmat-ivermectina-este-eficace-impotriva-coronavirusului-357967.html,1,
+Bulgaria,,2,
+Dominican,,2,
+North Macedonia,https://t.co/XQNiQG01ZR?amp=1,2,
+Zimbabwe,https://www.aa.com.tr/en/africa/zimbabwe-oks-use-of-ivermectin-after-officials-deaths/2125442,2,
+Slovenia,https://spectator.sme.sk/c/22583299/use-of-parasite-medication-to-treat-coronavirus-patients-approved-in-slovakia.html,2,
+India,https://indianexpress.com/article/opinion/columns/coronavirus-pandemic-covid-vaccine-tracker-uttar-pradesh-7107756/,2,Uttar Pradesh or whole country?
+Peru,,1,Controversial but has been in the MinSa protocol?
+Mexico,,2,Only in DF
+United Kingdom,https://trialsitenews.com/oxfords-principle-trial-bringing-ivermectin-directly-into-the-developed-world-in-the-battle-against-covid-19/,1,Integrated in PRINCIPLE trial
+USA,,1,Neutral NIH
+South,https://www.iol.co.za/news/south-africa/western-cape/sahpra-announces-controlled-compassionate-access-to-ivermectin-d1bc374e-6fea-4d4f-8b87-145fed2aa4e8,2,
+Greece,,2,
+Paraguay,,,
+Panama,,,
+Guatemala,,,
+Venezuela,,,
+El Salvador,,,
+Brazil,,,
+France,https://presse.inserm.fr/en/livermectine-nouveau-traitement-miracle-contre-la-covid-19-vraiment/42011/,0,
