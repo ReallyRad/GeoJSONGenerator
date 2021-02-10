@@ -11,12 +11,9 @@ def centroid (vertexes):
 with open('world-110m.geojson') as f:
     countries = geojson.load(f)
 
-with open('chicago-parks.geojson') as f:
-    markers = geojson.load(f)
-
 features = countries['features']
 
-points = geojson.FeatureCollection(features=[])
+markers = geojson.FeatureCollection(features=[])
 
 with open('data.csv') as csvfile:
      csv_reader = csv.reader(csvfile, delimiter=',')
@@ -30,13 +27,13 @@ with open('data.csv') as csvfile:
                    my_point = geojson.Point(centroid(feature['geometry']['coordinates'][0]))
 
                  new_feature = geojson.Feature(geometry=my_point, properties={"description": row[1], "title": row[0]})
-                 points['features'].append(new_feature)
+                 markers['features'].append(new_feature)
 
 countries['features'] = features
 
 with open('out.geojson', 'w') as outfile:
     geojson.dump(countries, outfile)
 
-#for each country with link
-#calculate center of country
-#add node with country name as title, url as description, country center as coordinates
+with open('dataset.geojson', 'w') as outfile:
+    geojson.dump(markers, outfile)
+
