@@ -1,36 +1,36 @@
-    Country,Article_URL,Recommendation,Comment
-    Argentina,https://www.clarin.com/sociedad/cientificos-argentinos-investigaron-ivermectina-defienden-uso-coronavirus_0_sAmPqQZGN.html,3,
-    Romania,https://translate.google.com/translate?sl=auto&tl=en&u=https://www.b1.ro/stiri/social/dr-serban-bubenek-a-confirmat-ivermectina-este-eficace-impotriva-coronavirusului-357967.html,1,
-    Bulgaria,https://d7llklyq4a3udg7ze4qzwvplqq-adwhj77lcyoafdy-www-economic-bg.translate.goog/bg/a/view/finalni-testove-za-izpolzvane-na-ivermektin-v-bylgarija,1,
-    Dominican,https://www.longdom.org/open-access/the-use-of-compassionate-ivermectin-in-the-management-of-symptomatic-outpatients-and-hospitalized-patients-with-clinical.pdf,1,
-    North Macedonia,https://translate.google.com/translate?hl=&sl=auto&tl=en&u=https%3A%2F%2Fwww.slobodenpecat.mk%2Fkonechno-ivermektinot-doaga-i-vo-makedonija%2F&sandbox=1,4,
-    Zimbabwe,https://www.aa.com.tr/en/africa/zimbabwe-oks-use-of-ivermectin-after-officials-deaths/2125442,4,
-    Slovakia,https://spectator.sme.sk/c/22583299/use-of-parasite-medication-to-treat-coronavirus-patients-approved-in-slovakia.html,4,
-    India,https://indianexpress.com/article/opinion/columns/coronavirus-pandemic-covid-vaccine-tracker-uttar-pradesh-7107756/,3,Uttar Pradesh or whole country?
-    Peru,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3765018,3,Controversial but has been in the MinSa protocol?
-    Mexico,https://lopezdoriga.com/nacional/secretaria-de-salud-actualizara-lineamientos-de-atencion-a-pacientes-covid-19/,3,Only in DF
-    United Kingdom,https://trialsitenews.com/oxfords-principle-trial-bringing-ivermectin-directly-into-the-developed-world-in-the-battle-against-covid-19/,1,Integrated in PRINCIPLE trial
-    USA,https://www.covid19treatmentguidelines.nih.gov/antiviral-therapy/ivermectin/,1,Neutral NIH
-    South Africa,https://www.iol.co.za/news/south-africa/western-cape/sahpra-announces-controlled-compassionate-access-to-ivermectin-d1bc374e-6fea-4d4f-8b87-145fed2aa4e8,4,
-    Paraguay,https://www.abc.com.py/nacionales/2021/01/22/proyecto-ivermectina-piden-contactar-cuanto-antes-con-los-investigadores/,2,
-    Panama,https://go.nature.com/3rNdYGS,2,
-    Guatemala,https://www.agenciaocote.com/blog/2020/08/25/el-salvador-guatemala-y-bolivia-ofrecen-kits-de-medicinas-para-covid-19-sin-prever-reacciones-adversas/,3,
-    El Salvador,https://www.agenciaocote.com/blog/2020/08/25/el-salvador-guatemala-y-bolivia-ofrecen-kits-de-medicinas-para-covid-19-sin-prever-reacciones-adversas/,3,
-    Brazil,https://terrabrasilnoticias.com/2021/01/associacao-medica-do-rn-defende-tratamento-precoce-da-covid-19-com-ivermectina/,1,
-    Honduras,https://www.elcomercio.com/actualidad/recomiendan-ivermectina-combate-covid-honduras.html,4,
-    Iran,https://www.tehrantimes.com/news/457126/Iran-begins-production-of-new-anti-corona-medicine,4,
-    Nigeria,https://twitter.com/Covid19Crusher/status/135   5991141288652805/photo/1,2,
-    Bolivia,https://www.agenciaocote.com/blog/2020/08/25/el-salvador-guatemala-y-bolivia-ofrecen-kits-de-medicinas-para-covid-19-sin-prever-reacciones-adversas/,4
-    Spain,https://t.co/TNRz8BhlTx?amp=1,1
-    Italy,https://it.sputniknews.com/intervista/2021020710100318-ivermectina-nuova-frontiera-nella-lotta-contro-covid-il-parere-della-scienziata-eloise-mastrangelo/, 1
-    France,https://www.francesoir.fr/societe-sante/la-riposte-des-medecins-de-coordination-sante-libre-william-audureau-et-le-monde,1
-    Israel,https://www.jpost.com/israel-news/antiparasitic-drug-reduces-covid-19-infection-exclusive-658949, 1
-    Japan,https://translate.google.com/translate?sl=auto&tl=en&u=https://www.nikkei.com/article/DGXZQOFB25AAL0V20C21A1000000/,1
-    Lebanon,https://translate.google.com/translate?sl=auto&tl=en&u=https://www.elnashra.com/news/show/1478590,1
-    Switzerland,https://translate.google.com/translate?hl=&sl=ar&tl=en&u=https%3A%2F%2Fwww.tagblatt.ch%2Fleben%2Fcovid-19-anstatt-das-virus-auszurotten-geben-wir-ihm-einen-medikamentencocktail-ld.2081020&sandbox=1,1
-    Bangladesh,https://trialsitenews.com/bangladesh-medical-college-observational-study-ivermectin-works-as-prep-for-health-care-workers-against-covid-19/,2
-    Belize,https://www.breakingbelizenews.com/2020/12/18/ministry-of-health-now-using-ivermectin-to-treat-covid-19-patients/,4
-    Egypt,https://www.researchgate.net/publication/345813633_Management_Protocol_for_COVID-19_Patients_MoHP_Protocol_for_COVID19_November_2020,4
-    Nicaragua,https://www.laprensa.com.ni/2021/01/25/nacionales/2776166-minsa-acude-a-la-ivermectina-para-tratar-a-pacientes-con-covid-19,4
-    Iraq,https://www.medrxiv.org/content/10.1101/2020.10.26.20219345v1,1
-    Malaysia,https://trialsitenews.com/group-of-malaysian-doctors-officials-suggest-a-plan-b-to-vaccination-centering-on-ivermectin/,1
+Country,Article_URL,Recommendation,Comment
+Argentina,https://www.clarin.com/sociedad/cientificos-argentinos-investigaron-ivermectina-defienden-uso-coronavirus_0_sAmPqQZGN.html,3,
+Romania,https://translate.google.com/translate?sl=auto&tl=en&u=https://www.b1.ro/stiri/social/dr-serban-bubenek-a-confirmat-ivermectina-este-eficace-impotriva-coronavirusului-357967.html,1,
+Bulgaria,https://d7llklyq4a3udg7ze4qzwvplqq-adwhj77lcyoafdy-www-economic-bg.translate.goog/bg/a/view/finalni-testove-za-izpolzvane-na-ivermektin-v-bylgarija,1,
+Dominican,https://www.longdom.org/open-access/the-use-of-compassionate-ivermectin-in-the-management-of-symptomatic-outpatients-and-hospitalized-patients-with-clinical.pdf,1,
+North Macedonia,https://translate.google.com/translate?hl=&sl=auto&tl=en&u=https%3A%2F%2Fwww.slobodenpecat.mk%2Fkonechno-ivermektinot-doaga-i-vo-makedonija%2F&sandbox=1,4,
+Zimbabwe,https://www.aa.com.tr/en/africa/zimbabwe-oks-use-of-ivermectin-after-officials-deaths/2125442,4,
+Slovakia,https://spectator.sme.sk/c/22583299/use-of-parasite-medication-to-treat-coronavirus-patients-approved-in-slovakia.html,4,
+India,https://indianexpress.com/article/opinion/columns/coronavirus-pandemic-covid-vaccine-tracker-uttar-pradesh-7107756/,3,Uttar Pradesh or whole country?
+Peru,https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3765018,3,Controversial but has been in the MinSa protocol?
+Mexico,https://lopezdoriga.com/nacional/secretaria-de-salud-actualizara-lineamientos-de-atencion-a-pacientes-covid-19/,3,Only in DF
+United Kingdom,https://trialsitenews.com/oxfords-principle-trial-bringing-ivermectin-directly-into-the-developed-world-in-the-battle-against-covid-19/,1,Integrated in PRINCIPLE trial
+USA,https://www.covid19treatmentguidelines.nih.gov/antiviral-therapy/ivermectin/,1,Neutral NIH
+South Africa,https://www.iol.co.za/news/south-africa/western-cape/sahpra-announces-controlled-compassionate-access-to-ivermectin-d1bc374e-6fea-4d4f-8b87-145fed2aa4e8,4,
+Paraguay,https://www.abc.com.py/nacionales/2021/01/22/proyecto-ivermectina-piden-contactar-cuanto-antes-con-los-investigadores/,2,
+Panama,https://go.nature.com/3rNdYGS,2,
+Guatemala,https://www.agenciaocote.com/blog/2020/08/25/el-salvador-guatemala-y-bolivia-ofrecen-kits-de-medicinas-para-covid-19-sin-prever-reacciones-adversas/,3,
+El Salvador,https://www.agenciaocote.com/blog/2020/08/25/el-salvador-guatemala-y-bolivia-ofrecen-kits-de-medicinas-para-covid-19-sin-prever-reacciones-adversas/,3,
+Brazil,https://terrabrasilnoticias.com/2021/01/associacao-medica-do-rn-defende-tratamento-precoce-da-covid-19-com-ivermectina/,1,
+Honduras,https://www.elcomercio.com/actualidad/recomiendan-ivermectina-combate-covid-honduras.html,4,
+Iran,https://www.tehrantimes.com/news/457126/Iran-begins-production-of-new-anti-corona-medicine,4,
+Nigeria,https://twitter.com/Covid19Crusher/status/135   5991141288652805/photo/1,2,
+Bolivia,https://www.agenciaocote.com/blog/2020/08/25/el-salvador-guatemala-y-bolivia-ofrecen-kits-de-medicinas-para-covid-19-sin-prever-reacciones-adversas/,4
+Spain,https://t.co/TNRz8BhlTx?amp=1,1
+Italy,https://it.sputniknews.com/intervista/2021020710100318-ivermectina-nuova-frontiera-nella-lotta-contro-covid-il-parere-della-scienziata-eloise-mastrangelo/, 1
+France,https://www.francesoir.fr/societe-sante/la-riposte-des-medecins-de-coordination-sante-libre-william-audureau-et-le-monde,1
+Israel,https://www.jpost.com/israel-news/antiparasitic-drug-reduces-covid-19-infection-exclusive-658949, 1
+Japan,https://translate.google.com/translate?sl=auto&tl=en&u=https://www.nikkei.com/article/DGXZQOFB25AAL0V20C21A1000000/,1
+Lebanon,https://translate.google.com/translate?sl=auto&tl=en&u=https://www.elnashra.com/news/show/1478590,1
+Switzerland,https://translate.google.com/translate?hl=&sl=ar&tl=en&u=https%3A%2F%2Fwww.tagblatt.ch%2Fleben%2Fcovid-19-anstatt-das-virus-auszurotten-geben-wir-ihm-einen-medikamentencocktail-ld.2081020&sandbox=1,1
+Bangladesh,https://trialsitenews.com/bangladesh-medical-college-observational-study-ivermectin-works-as-prep-for-health-care-workers-against-covid-19/,2
+Belize,https://www.breakingbelizenews.com/2020/12/18/ministry-of-health-now-using-ivermectin-to-treat-covid-19-patients/,4
+Egypt,https://www.researchgate.net/publication/345813633_Management_Protocol_for_COVID-19_Patients_MoHP_Protocol_for_COVID19_November_2020,4
+Nicaragua,https://www.laprensa.com.ni/2021/01/25/nacionales/2776166-minsa-acude-a-la-ivermectina-para-tratar-a-pacientes-con-covid-19,4
+Iraq,https://www.medrxiv.org/content/10.1101/2020.10.26.20219345v1,1
+Malaysia,https://trialsitenews.com/group-of-malaysian-doctors-officials-suggest-a-plan-b-to-vaccination-centering-on-ivermectin/,1`
